@@ -1,0 +1,30 @@
+.footer{
+    background-color: #5107c8;
+    color: rgb(255, 255, 255)080;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.footer p{
+    color: white;
+}
+
+.navbar {
+    background-color: #5107c8;
+    min-height: 70px;
+    display: flex;
+    align-items: center;
+}
+
+.navbar a {
+    color: #fff;
+    margin-left: 1em;
+    text-decoration: none;
+    transition: .3s;
+}
+
+.navbar a:hover {
+    color: #999
+}

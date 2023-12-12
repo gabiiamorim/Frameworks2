@@ -1,0 +1,96 @@
+.obras {
+  background-color: #cdc6f2;
+  text-align: center;
+  min-height: 80vh;
+}
+
+.produtos {
+  color: #000000;
+  text-align: center;
+  background-color: #cdc6f2;
+  min-height: 80vh;
+}
+
+.h3prod
+{
+  margin-top: 5%;
+}
+
+.sobre {
+  color: #cdc6f2;
+  background-color: #cdc6f2;
+  display: flex;
+  width: 1903px;
+  height: 760px;
+  min-height: 80vh;
+}
+
+.parte1
+{
+  height: 100%;
+  width: 20%;
+  background-color: #cdc6f2;
+  text-align: center;
+}
+
+.parte2
+{
+  height: 100%;
+  width: 60%;
+  display: flex;
+  flex-direction: column;
+
+}
+
+.banner
+{
+  width: 100%;
+  height: 20%;
+  margin-top: 5%;
+  align-items: center;
+}
+
+.banner1
+{
+  width: 400px;
+  height: 200px;
+  margin-left: 33%;
+}
+
+.h1b
+{
+  text-align: center;
+  font-size:larger;
+}
+
+.imagens
+{
+  width: 100%;
+  height: 50%;
+  margin-top: 10%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.img1
+{
+  text-align: left;
+}
+
+.img2
+{
+  width: 58%;
+  height: 58%;
+}
+
+.img3
+{
+  text-align: left;
+}
+
+.img4
+{
+  width: 58%;
+  height: 58%;
+}
